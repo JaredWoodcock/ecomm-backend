@@ -1,2 +1,2 @@
-# ecomm-backend
+# EComm Backend
 Module 13 Challenge - ECommerce Backend

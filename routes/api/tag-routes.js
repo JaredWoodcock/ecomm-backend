@@ -55,7 +55,7 @@ router.put('/:id', async (req, res) => {
       return;
     }
 
-    res.status(200).json(updatedTag);
+    res.status(200).json({ message: `Successfully updated tag with ID ${req.params.id}` });
   } catch (err) {
     res.status(500).json(err);
   }
@@ -73,7 +73,7 @@ router.delete('/:id', async (req, res) => {
       return;
     }
 
-    res.status(200).json(deletedTag);
+    res.status(200).json({ message: `Successfully deleted tag with ID ${req.params.id}` });
   } catch (err) {
     res.status(500).json(err);
   }

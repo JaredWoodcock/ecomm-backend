@@ -1,5 +1,6 @@
 const { Model, DataTypes } = require('sequelize');
 
+// Import DB connection
 const sequelize = require('../config/connection.js');
 
 class Tag extends Model {}

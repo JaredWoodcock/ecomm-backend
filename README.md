@@ -8,4 +8,4 @@ In this challenge, I finished the code for an E-Commerce website's back end that
 <ul>When API GET routes are opened in Insomnia for categories, products, or tags, then the data for each of these routes is displayed in a formatted JSON.</ul>
 <ul>When the user tests API POST, PUT, and DELETE routes in Insomnia, then the user is able to successfully create, update, and delete data in the database.</ul>
 
-Walkthrough Video: [Uploading Module 13 Walkthrough.webm…]()
+Walkthrough Video: [Module 13 Walkthrough.webm](https://github.com/JaredWoodcock/ecomm-backend/assets/144859311/7dcad214-9f35-4b5c-be88-cfac5bb979b4)
